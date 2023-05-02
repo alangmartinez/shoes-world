@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Chathura:wght@100;300;400;700;800&family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Chathura:wght@100;300;400;700;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #F9F5EB;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+::-webkit-scrollbar-thumb {
+    background: #000;
+    border-radius: .5rem;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}

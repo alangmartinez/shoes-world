@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Zapatilla NIKE SB ISHOD WAIR PRM - ORANGE/BLUE",
+    "price": 100,
+    "currency": "EUR",
+    "thumbnail": "/assets/images/shoes/shoes-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Zapatilla NIKE SB BLAZER ZM MID x ERIC KOSTON SUMMIT - WHITE/NIGHTSHADE",
+    "price": 100,
+    "currency": "EUR",
+    "thumbnail": "/assets/images/shoes/shoe-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Zapatilla NIKE SB DUNK HIGH PRO QS FROSKATE",
+    "price": 110,
+    "currency": "EUR",
+    "thumbnail": "/assets/images/shoes/shoe-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Zapatilla NIKE SB DUNK HIGH PRO NY FAUST - BLACK/BLACK",
+    "price": 110,
+    "currency": "EUR",
+    "thumbnail": "/assets/images/shoes/shoe-4.jpg"
+  }
+]
